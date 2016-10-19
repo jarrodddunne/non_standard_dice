@@ -1,13 +1,35 @@
-factor.java Copyright Jarrod Dunne 2015  
-Polynomial.java from Princeton CS Department: http://introcs.cs.princeton.edu/java/92symbolic/Polynomial.java.html  
-http://jddunne.com  
-jarrodddunne@gmail.com  
-https://github.com/jarroddunne/  
-https://www.linkedin.com/pub/jarrod-dunne/90/b14/8a8  
+## Synopsis
 
-non_standard_dice  
-A Java program with accompanying research paper involving generating non-standard pairs of dice.  
-For more information, see following links:  
+A java program that calculates non-standard dice pairs.
 
-http://buzzard.ups.edu/courses/2010spring/projects/jenkins-sicherman-dice-ups-434-2010.pdf  
-https://en.wikipedia.org/wiki/Sicherman_dice
+## Motivation
+
+Research project for the 2013 Summer Ventures in Science and Math at East Carolina University.
+
+## Installation
+
+Compile and run factor.java
+
+## License
+
+MIT License
+
+Copyright (c) 2016 Jarrod D. Dunne
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
